@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-#container{
+.container{
 	background-color:#ADD7E6;
 	color: purple;
 	font-size: 25px;
 	width:150px;
-	height:150px;
+	height:auto;
 	text-align: center;
 	border:2px solid black;
 	display: inline-block;
