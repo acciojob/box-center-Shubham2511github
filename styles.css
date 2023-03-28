@@ -1,12 +1,15 @@
 /*  your css code here. If applicable */
-.container{
-	background-color:#ADD7E6;
-	color: purple;
-	font-size: 25px;
+*{
+	padding:0px;
+	margin:0px;
+}
+.test{
 	width:150px;
-	height:auto;
-	text-align: center;
+	color:purple;
+	font-size:25px;
+	padding:150px 100px;
+	font-wight:bold;
+	background-color:lightblue;
 	border:2px solid black;
-	display: inline-block;
-	padding:100px;
+	margin:200px auto;
 }
